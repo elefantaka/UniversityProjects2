@@ -1,0 +1,17 @@
+﻿  wietrzynska3.cpp
+c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(23): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(23): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(23): note: the missing variadic argument 2 is required by format string '%s'
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(23): note: this argument is used as a buffer size
+c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(35): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(35): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(35): note: the missing variadic argument 2 is required by format string '%s'
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(35): note: this argument is used as a buffer size
+c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(36): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(36): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(36): note: the missing variadic argument 2 is required by format string '%s'
+  c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(36): note: this argument is used as a buffer size
+c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(38): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\work\uksw_projects\semestr2\wejsciowka2.1\wietrzynska3.cpp(44): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'

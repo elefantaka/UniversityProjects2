@@ -1,0 +1,3 @@
+﻿  wietrzynska2.c
+c:\work\uksw_projects\semestr2\wejsciowka2\wietrzynska2.c(56): warning C4013: 'gets' undefined; assuming extern returning int
+  wejsciowka2.vcxproj -> C:\Work\UKSW_PROJECTS\Semestr2\Debug\wejsciowka2.exe

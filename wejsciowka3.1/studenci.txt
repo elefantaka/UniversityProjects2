@@ -1,0 +1,4 @@
+1 Kowalski 5
+2 Nowak 3
+3 Wawrzynkiewicz 4
+4 Pisarczyk 2

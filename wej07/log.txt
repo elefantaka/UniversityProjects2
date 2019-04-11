@@ -1,0 +1,92 @@
+Tue Apr  9 13:01:12 2019
+ : wylosowana litera:j
+Tue Apr  9 13:01:14 2019
+ : wylosowana litera:y
+Tue Apr  9 13:01:15 2019
+ : wylosowana litera:t
+Tue Apr  9 13:02:02 2019
+wylosowana litera:q
+Tue Apr  9 13:02:04 2019
+wylosowana litera:a
+Tue Apr  9 13:02:06 2019
+wylosowana litera:i
+Tue Apr  9 13:03:21 2019
+-- wylosowana litera:o
+Tue Apr  9 13:03:23 2019
+-- wylosowana litera:r
+Tue Apr  9 13:03:24 2019
+-- wylosowana litera:s
+Tue Apr  9 13:09:32 2019
+-- Pobrany nick:renata
+Tue Apr  9 13:09:33 2019
+-- Pobrana ilosc prob:3
+Tue Apr  9 13:09:33 2019
+-- wylosowana litera:h
+Tue Apr  9 13:09:34 2019
+-- odpowiedz uzytkownika:h, poprawna
+
+Tue Apr  9 13:09:34 2019
+-- wylosowana litera:a
+Tue Apr  9 13:09:35 2019
+-- odpowiedz uzytkownika:w, niepoprawna
+Tue Apr  9 13:09:35 2019
+-- wylosowana litera:h
+Tue Apr  9 13:09:37 2019
+-- odpowiedz uzytkownika:h, poprawna
+
+Tue Apr  9 13:12:12 2019
+-- Pobrany nick:ania
+Tue Apr  9 13:12:15 2019
+-- Pobrana ilosc prob:4
+Tue Apr  9 13:12:15 2019
+-- wylosowana litera:q
+Tue Apr  9 13:12:17 2019
+-- odpowiedz uzytkownika:q, poprawna
+Tue Apr  9 13:12:17 2019
+-- wylosowana litera:o
+Tue Apr  9 13:12:18 2019
+-- odpowiedz uzytkownika:o, poprawna
+Tue Apr  9 13:12:18 2019
+-- wylosowana litera:t
+Tue Apr  9 13:12:20 2019
+-- odpowiedz uzytkownika:e, niepoprawna
+Tue Apr  9 13:12:20 2019
+-- wylosowana litera:i
+Tue Apr  9 13:12:21 2019
+-- odpowiedz uzytkownika:i, poprawna
+Tue Apr  9 13:16:28 2019
+-- Pobrany nick:renata
+Tue Apr  9 13:16:29 2019
+-- Pobrana ilosc prob:3
+Tue Apr  9 13:16:29 2019
+-- wylosowana litera:n
+Tue Apr  9 13:16:30 2019
+-- odpowiedz uzytkownika:n, poprawna
+Tue Apr  9 13:16:30 2019
+-- wylosowana litera:j
+Tue Apr  9 13:16:31 2019
+-- odpowiedz uzytkownika:j, poprawna
+Tue Apr  9 13:16:31 2019
+-- wylosowana litera:n
+Tue Apr  9 13:16:33 2019
+-- odpowiedz uzytkownika:e, niepoprawna
+Tue Apr  9 18:59:18 2019
+-- Pobrany nick:renia
+Tue Apr  9 18:59:20 2019
+-- Pobrana ilosc prob:4
+Tue Apr  9 18:59:20 2019
+-- wylosowana litera:p
+Tue Apr  9 18:59:21 2019
+-- odpowiedz uzytkownika:p, poprawna
+Tue Apr  9 18:59:21 2019
+-- wylosowana litera:v
+Tue Apr  9 18:59:23 2019
+-- odpowiedz uzytkownika:x, niepoprawna
+Tue Apr  9 18:59:23 2019
+-- wylosowana litera:u
+Tue Apr  9 18:59:27 2019
+-- odpowiedz uzytkownika:u, poprawna
+Tue Apr  9 18:59:27 2019
+-- wylosowana litera:p
+Tue Apr  9 18:59:29 2019
+-- odpowiedz uzytkownika:p, poprawna

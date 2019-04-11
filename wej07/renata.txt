@@ -1,0 +1,7 @@
+Czas: 5  Ilosc trafien: 3
+Czas: 3  Ilosc trafien: 2
+Czas: 4  Ilosc trafien: 2
+Czas: 5  Ilosc trafien: 2
+Czas: 5  Ilosc trafien: 3
+Czas: 4  Ilosc trafien: 2
+Czas: 4  Ilosc trafien: 2

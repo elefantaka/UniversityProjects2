@@ -1,0 +1,4 @@
+﻿  wietrzynska07.cpp
+c:\work\uksw_projects\semestr2\wej07\wietrzynska07.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\work\uksw_projects\semestr2\wej07\wietrzynska07.cpp(56): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  wej07.vcxproj -> C:\Work\UKSW_PROJECTS\Semestr2\Debug\wej07.exe
